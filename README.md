@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - [use-vue](https://github.com/pluscai/use-vue) 
 - [vue-proj](https://github.com/pluscai/vue-proj)
 - [vue-toast-csx](https://github.com/pluscai/vue-toast-csx)
+- [Vue去哪儿网](https://gitee.com/caishuxiang/travel)
 ##### webpack
 - [use-webpack](https://github.com/pluscai/use-webpack)
 
