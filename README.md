@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##### 读书笔记
 
-- [《JavaScript DOM编程艺术》 - 英文原版第2版](./读书笔记/JavaScript DOM编程艺术/README.md)
+- [《JavaScript DOM编程艺术》 - 英文原版第2版](https://github.com/pluscai/pluscai/tree/master/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/JavaScript%20DOM%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF)
 
 ##### Blog
 -  [如何开发Vue插件](https://github.com/pluscai/pluscai/issues/2)
